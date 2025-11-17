@@ -13,7 +13,7 @@ It is open-source, easy to run, and helps students, job seekers, and developers 
 </p>
 
 <p align="center">
-  <img src="banner_example.png" alt="Project Banner" width="90%" />
+  <img src="banner_example.png" alt="A_digital_graphic_design_banner_features_SkillSigh.png" width="90%" />
 </p>
 
 ---
