@@ -29,23 +29,6 @@ It is open-source, easy to run, and helps students, job seekers, and developers 
 - **Supports PDF, DOCX, TXT**
 
 ---
-## 📸 Application Screenshots
-
-### 🖼️ Screenshot 1  
-![Screen 1](assets/screenshots/screen1.png)
-
-### 🖼️ Screenshot 2  
-![Screen 2](assets/screenshots/screen2.png)
-
-### 🖼️ Screenshot 3  
-![Screen 3](assets/screenshots/screen3.png)
-
-### 🖼️ Screenshot 4  
-![Screen 4](assets/screenshots/screen4.png)
-
-### 🖼️ Screenshot 5  
-![Screen 5](assets/screenshots/screen5.png)
-
 
 ## 📥 Getting Started
 
