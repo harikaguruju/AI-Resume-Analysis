@@ -1,1 +1,0 @@
-Hybrid AI Resume Analysis Platform using Deep Learning + NLP + LLMs. Extract skills, compute ATS scores, and generate job-match insights using embeddings and transformers.
