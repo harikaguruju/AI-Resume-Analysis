@@ -1,0 +1,3 @@
+• Built SkillSight Pro, an AI-powered resume intelligence system combining Deep Learning, NLP, and LLM reasoning.
+• Implemented BERT NER + Sentence Transformer embeddings for accurate skill extraction and semantic job-role matching.
+• Designed an interactive Streamlit dashboard with clarity scoring, radar charts, and ATS insights.
