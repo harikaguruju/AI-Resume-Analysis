@@ -30,22 +30,6 @@ It is open-source, easy to run, and helps students, job seekers, and developers 
 
 ---
 
-# 🚀 Features
-(list of features...)
-
-# ✨ Why This Project Matters
-(paste long description here)
-
-# 🛠️ Tech Stack
-(table...)
-
-# 🎯 Key Highlights
-(points...)
-
-# 📥 Getting Started
-(requirements and installation)
-
-
 
 ## 📥 Getting Started
 
